@@ -1,6 +1,6 @@
 # 🎵 SpotifyIntegration 🎧
 
-Bem-vindo ao **Spotify-like Project**! Este projeto foi inspirado nas funcionalidades do Spotify, recriando uma experiência de streaming de música com uma interface moderna e interativa. A aplicação foi hospedada na nuvem (AWS) por alguns dias, permitindo que usuários reais testassem e explorassem suas funcionalidades. 🚀
+Bem-vindo ao **SpotifyIntegration**! Este projeto foi inspirado nas funcionalidades do Spotify, recriando uma experiência de streaming de música com uma interface moderna e interativa. A aplicação foi hospedada na nuvem (AWS) por alguns dias, permitindo que usuários reais testassem e explorassem suas funcionalidades. 🚀
 
 ---
 
